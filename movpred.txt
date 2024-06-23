@@ -1,0 +1,20 @@
+0  953  4.868923  It's a Wonderful Life (1946)  Drama
+1  668  4.866858  Pather Panchali (1955)  Drama
+2  1423  4.859523  Hearts and Minds (1996)  Drama
+3  3307  4.834415  City Lights (1931)  Comedy|Drama|Romance
+4  649  4.802675  Cold Fever (Á köldum klaka) (1994)  Comedy|Drama
+5  669  4.797451  Aparajito (1956)  Drama
+6  326  4.784828  To Live (Huozhe) (1994)  Drama
+7  3092  4.761148  Chushingura (1962)  Drama
+8  3022  4.753003  General, The (1927)  Comedy
+9  2351  4.720692  Nights of Cabiria (Le Notti di Cabiria) (1957)  Drama
+10  926  4.719633  All About Eve (1950)  Drama
+11  3306  4.718323  Circus, The (1928)  Comedy
+12  3629  4.684521  Gold Rush, The (1925)  Comedy
+13  3415  4.683432  Mirror, The (Zerkalo) (1975)  Drama
+14  2609  4.678223  King of Masks, The (Bian Lian) (1996)  Drama
+15  1178  4.674256  Paths of Glory (1957)  Drama|War
+16  22034.656760  Shadow of a Doubt (1943)  Film-Noir|Thriller
+17  9544.654399  Mr. Smith Goes to Washington (1939)  Drama
+18  38494.649190  Spiral Staircase, The (1946)  Thriller
+19  6024.645639  Great Day in Harlem, A (1994)  Documentary
